@@ -12,7 +12,7 @@ Details about the exact location will follow.
 ## Session 1 (Keynote)
 ### 9:00-10:00am
 #### Safety First: Though on the Other Hand, Time is Critical
-![Jonathan Sprinkle](/assets/images/jms2020-ua.jpg){: style="float: left; margin-top: 1em; margin-right: 1.8em; margin-bottom: .8em"}
+![Jonathan Sprinkle]({{ site.baseurl }}/assets/images/jms2020-ua.jpg){: style="float: left; margin-top: 1em; margin-right: 1.8em; margin-bottom: .8em"}
 <div style="text-align: justify">
 <b>Jonathan Sprinkle</b> is a Professor of Computer Science at Vanderbilt University. Prior to joining Vanderbilt in 2021, he was the Litton Industries John M. Leonis Distinguished Associate Professor of Electrical and Computer Engineering at the University of Arizona, and the Interim Director of the Transportation Research Institute. In 2020 he was named a Distinguished Scholar of the University of Arizona. From 2017-2019 he served as a Program Director in Cyber-Physical Systems and Smart & Connected Communities at the National Science Foundation in the CISE Directorate. In 2013 he received the NSF CAREER award, and in 2009, he received the UA's Ed and Joan Biggers Faculty Support Grant for work in autonomous systems. His work has an emphasis for industry impact, and he was recognized with the UA "Catapult Award" by Tech Launch Arizona in 2014, and in 2012 his team won the NSF I-Corps Best Team award. His research interests and experience are in model-based approaches to cyber-physical systems, and he teaches courses ranging from systems modeling and control to mobile application development and software engineering.
 </div>
