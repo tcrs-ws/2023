@@ -33,7 +33,7 @@ Contributions may overlap with any of the following areas:
 - System-level design
 - Time-predictable hardware
 
-More background about this workshop and its motivation can be found [here]({{ site.baseurl }}{% link about.md %}).
+More background about this workshop and its motivation can be found [here]({% link about.md %}).
 ## Important Dates
 - February 10, 2023: Submission deadline
 - March 3, 2023: Author notification
