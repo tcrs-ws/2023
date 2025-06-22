@@ -34,3 +34,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # YAT theme.
 gem "jekyll-theme-yat"
+
+gem "csv"
+gem "base64"
